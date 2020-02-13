@@ -1,0 +1,13 @@
+body{
+     
+    cursor: url(Heart.gif), auto;
+    background-image: url("clouds.gif");
+background-repeat: repeat;
+  }
+  h1{
+    color:hotpink;
+    
+  }
+  p {
+    font-family: Impact, Charcoal, sans-serif;
+  }
